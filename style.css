@@ -8,7 +8,7 @@
   }
   h1
   {
-      color: rgb(187, 231, 26); 
+      color: red; 
       font-size: 40px;
   }
   #myCanvas
@@ -19,7 +19,7 @@
   }
 
   button {
-    background-color: #611b9b;
+    background-color: #4CAF50;
     border: none;
     color: white;
     padding: 10px 42px;
